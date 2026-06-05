@@ -6,8 +6,7 @@ A collection of data analysis and visualization projects completed as part of a 
 
 ## Projects
 
-### 01 | Hotel Industry: Matplotlib Foundations
-**Client: Internal (MCG Onboarding)**
+### 01 | Hotel Industry
 
 Exploratory analysis of hotel customer data using core Matplotlib techniques.
 
@@ -21,8 +20,7 @@ Exploratory analysis of hotel customer data using core Matplotlib techniques.
 
 ---
 
-### 02 | Coffee Industry: Deep Dive (Part 1)
-**Client: Sarah Shark, Managing Director**
+### 02 | Coffee Industry
 
 Analysis of global coffee production and trade dynamics, with a focus on Brazil's position relative to other producing and importing nations.
 
@@ -37,7 +35,6 @@ Analysis of global coffee production and trade dynamics, with a focus on Brazil'
 ---
 
 ### 02 | Coffee Industry: Summary Report (Part 2)
-**Client: Clarissa Café, Coffee Client**
 
 Combines the findings from Part 1 into a single multi-panel figure report using `GridSpec` and Matplotlib subplots.
 
@@ -50,8 +47,7 @@ Combines the findings from Part 1 into a single multi-panel figure report using 
 
 ---
 
-### 03 | Hotel Industry: Subplots and Grid Layouts
-**Client: Internal (MCG Onboarding)**
+### 03 | Hotel Industry
 
 Builds on the hotel dataset using more advanced layout techniques.
 
@@ -62,8 +58,7 @@ Builds on the hotel dataset using more advanced layout techniques.
 
 ---
 
-### 04 | Hotel Industry: Seaborn Charts
-**Client: Internal (MCG Onboarding)**
+### 04 | Hotel Industry
 
 Uses Seaborn to explore the hotel dataset with more advanced statistical chart types.
 
@@ -78,8 +73,7 @@ Uses Seaborn to explore the hotel dataset with more advanced statistical chart t
 
 ---
 
-### 05 | Automotive Industry: Fleet Truck Procurement (Final Project)
-**Client: Aaron Auto, VP of Fleet Management**
+### 05 | Automotive Industry
 
 Analyzes a used car auction dataset to identify the best Ford F-150 XLT models for fleet acquisition.
 
