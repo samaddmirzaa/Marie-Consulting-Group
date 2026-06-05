@@ -1,4 +1,4 @@
-# Marie Consulting Group: Data Visualization Portfolio
+# Marie Consulting Group
 
 A collection of data analysis and visualization projects completed as part of a simulated consulting role at **Marie Consulting Group (MCG)**, a multinational advisory firm. Each notebook tackles a real client brief across three industries: hospitality, coffee, and automotive.
 
